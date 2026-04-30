@@ -19,4 +19,4 @@ ENV/
 
 # Local data & models
 data/
-model/
+# model/
