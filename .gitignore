@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch
+# Commented out so the classifier.pth can be pushed to GitHub for Streamlit Cloud deployment
+# *.pth
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# Local data & models
+data/
+model/
